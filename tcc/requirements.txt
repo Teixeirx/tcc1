@@ -1,0 +1,6 @@
+ccxt
+pandas
+matplotlib
+mplfinance
+python-dotenv
+google-genai
