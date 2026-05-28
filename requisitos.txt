@@ -2,5 +2,8 @@ ccxt
 pandas
 matplotlib
 mplfinance
+plotly
 python-dotenv
 google-genai
+Pillow
+ta
