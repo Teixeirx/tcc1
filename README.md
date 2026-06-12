@@ -126,11 +126,6 @@ python principal.py --par ETH/USDT --intervalo 4h --quantidade 60
 
 ---
 
-## 📄 Artigo
-
-Este projeto é acompanhado de um artigo científico (`Artigo Tcc1.pdf`) que documenta a metodologia, fundamentação teórica e resultados experimentais do sistema.
-
----
 
 ## 🎓 Contexto Acadêmico
 
